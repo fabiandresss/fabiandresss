@@ -21,5 +21,5 @@
 ## 📫 Contact  
 
 📧 **tucorreo@gmail.com**  
-💼 [LinkedIn](www.linkedin.com/in/fabian-armijo-ferrada-579b2b308)  
+💼 [LinkedIn](www.linkedin.com/in/fabián-armijo-ferrada-579b2b308)  
 📷 [Instagram](https://instagram.com/tuusuario)  

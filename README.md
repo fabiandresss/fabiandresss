@@ -1,3 +1,15 @@
+# 
+
+I’m a **Computer Engineer** and **AWS Certified Cloud Practitioner**, passionate about creating **full-stack web applications** and innovative solutions that make a difference.  
+
+I build **modern and responsive frontends** with **HTML, CSS, and JavaScript**, and powerful **backends with Node.js and Express**, connecting client and server efficiently through **APIs using HTTP methods**. My projects integrate both **NoSQL and relational databases**, working with **MongoDB** and **SQL Server** to ensure fast, reliable, and scalable data management.  
+
+I also have experience in **Power BI**, generating interactive dashboards and reports to support **data-driven decision making**. My work combines **web development, cloud computing, database management, and business intelligence**, giving me a versatile and practical skill set to tackle projects from design to deployment.  
+
+I’m fluent in **English (C1)**, able to work with technical documentation, and collaborate with international teams effectively. Always learning and experimenting, I enjoy turning ideas into functional, scalable solutions.  
+
+---
+
 # 👨‍💻 Skills & Experience  
 
 - 🚀 +1 años de experiencia en desarrollo **backend** y **fullstack**.  

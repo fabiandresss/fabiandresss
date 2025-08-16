@@ -1,15 +1,14 @@
 # 👨‍💻 Skills & Experience  
 
-- 🚀 +2 años de experiencia en desarrollo **backend** y **fullstack**.  
+- 🚀 +1 años de experiencia en desarrollo **backend** y **fullstack**.  
 - 💻 Conocimiento sólido en **JavaScript | Node.js | Express.js**.  
 - 🗄️ Manejo de **MongoDB** y **SQL Server**.  
 - ☁️ Experiencia con **AWS** para despliegue y escalabilidad.  
-- 🔌 Desarrollo de **APIs REST** e integración de sistemas.  
-- ⚡ Enfoque en optimización y buenas prácticas de código.  
+- 🔌 Desarrollo de **APIs REST** e integración de sistema. 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Stack  
 
 | Language | Framework / Library | Database | Cloud |
 |----------|-------------------|----------|-------|
@@ -22,6 +21,6 @@
 ## 📫 Contacto  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabián-armijo-ferrada-579b2b308)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
  

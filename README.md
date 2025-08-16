@@ -1,29 +1,25 @@
-🚀 Skills & Experience
+# 👨‍💻 Skills & Experience  
 
-💻 JavaScript Fullstack Development con experiencia en Node.js y Express.js.
+- 🚀 +2 años de experiencia en desarrollo **backend** y **fullstack**.  
+- 💻 Conocimiento sólido en **JavaScript | Node.js | Express.js**.  
+- 🗄️ Manejo de **MongoDB** y **SQL Server**.  
+- ☁️ Experiencia con **AWS** para despliegue y escalabilidad.  
+- 🔌 Desarrollo de **APIs REST** e integración de sistemas.  
+- ⚡ Enfoque en optimización y buenas prácticas de código.  
 
-🗄️ Conocimientos sólidos en MongoDB y SQL Server, diseño de bases de datos y optimización de consultas.
+---
 
-☁️ Experiencia en AWS (Amazon Web Services) para despliegue, escalabilidad y gestión de aplicaciones en la nube.
+## 🛠️ Tech Stack  
 
-🔌 Desarrollo de APIs RESTful, integraciones y arquitecturas escalables.
+| Lenguaje | Framework | Base de Datos | Cloud |
+|----------|-----------|---------------|-------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | | |
 
-⚡ Enfoque en performance optimization y buenas prácticas de desarrollo.
+---
 
-🛠️ Tech Stack
-Lenguaje / Runtime	Framework	Base de Datos	Cloud & DevOps
+## 📫 Contact  
 
-	
-	
-	
-
-
-	
-		
-📫 Contact
-
-📧 Email: tucorreo@gmail.com
-
-💼 LinkedIn: Tu Nombre
-
-📷 Instagram: @tuusuario
+📧 **tucorreo@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
+📷 [Instagram](https://instagram.com/tuusuario)  

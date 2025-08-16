@@ -10,13 +10,14 @@ I’m fluent in **English (C1)**, able to work with technical documentation, and
 
 ---
 
-# 👨‍💻 Skills & Experience  
-
-- 🚀 +1 años de experiencia en desarrollo **backend** y **fullstack**.  
-- 💻 Conocimiento sólido en **JavaScript | Node.js | Express.js**.  
-- 🗄️ Manejo de **MongoDB** y **SQL Server**.  
-- ☁️ Experiencia con **AWS** para despliegue y escalabilidad.  
-- 🔌 Desarrollo de **APIs REST** e integración de sistema. 
+## 👨‍💻 Skills & Experience
+🚀 1+ year of experience in **backend and full-stack development**.
+💻 Strong knowledge of **frontend development with HTML, CSS, JavaScript** and **backend with Node.js and Express.js**.
+🗄️ Experience managing **MongoDB** and **SQL Server** databases, designing efficient schemas and queries.
+☁️ Hands-on experience with **AWS** for deployment, server management, and scalability.
+🔌 Development of **RESTful APIs** using **HTTP methods** for client-server communication.
+📊 Familiarity with **Power BI** for data analysis, dashboards, and interactive reports.
+🌐 **English C1**, capable of working with technical documentation and collaborating on international projects.
 
 ---
 

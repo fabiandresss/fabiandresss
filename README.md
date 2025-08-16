@@ -1,6 +1,6 @@
 # 
 
-I’m a **Computer Engineer** and **AWS Certified Cloud Practitioner**, passionate about creating **full-stack web applications** and innovative solutions that make a difference.  
+I’m a **Software Engineer** and **AWS Certified Cloud Practitioner**, passionate about creating **full-stack web applications** and innovative solutions that make a difference.  
 
 I build **modern and responsive frontends** with **HTML, CSS, and JavaScript**, and powerful **backends with Node.js and Express**, connecting client and server efficiently through **APIs using HTTP methods**. My projects integrate both **NoSQL and relational databases**, working with **MongoDB** and **SQL Server** to ensure fast, reliable, and scalable data management.  
 

@@ -1,16 +1,29 @@
-## Hi there 👋
+🚀 Skills & Experience
 
-<!--
-**fabiandresss/fabiandresss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 JavaScript Fullstack Development con experiencia en Node.js y Express.js.
 
-Here are some ideas to get you started:
+🗄️ Conocimientos sólidos en MongoDB y SQL Server, diseño de bases de datos y optimización de consultas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Experiencia en AWS (Amazon Web Services) para despliegue, escalabilidad y gestión de aplicaciones en la nube.
+
+🔌 Desarrollo de APIs RESTful, integraciones y arquitecturas escalables.
+
+⚡ Enfoque en performance optimization y buenas prácticas de desarrollo.
+
+🛠️ Tech Stack
+Lenguaje / Runtime	Framework	Base de Datos	Cloud & DevOps
+
+	
+	
+	
+
+
+	
+		
+📫 Contact
+
+📧 Email: tucorreo@gmail.com
+
+💼 LinkedIn: Tu Nombre
+
+📷 Instagram: @tuusuario

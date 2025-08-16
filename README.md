@@ -29,6 +29,7 @@ I’m fluent in **English (C1)**, able to work with technical documentation, and
 
 
 
+
 ---
 
 ## 📫 Contact

@@ -1,6 +1,6 @@
 # 
 
-I’m a **Computer Engineering student**, passionate about **Data Analytics, Business Intelligence, Cloud Computing, and Artificial Intelligence**.
+I’m a **Computer Engineering**, passionate about **Data Analytics, Business Intelligence, Cloud Computing, and Artificial Intelligence**.
 
 Throughout my academic journey and personal projects, I have built solutions focused on **data analysis, ETL pipelines, business intelligence, and cloud-based architectures**. I have experience working with **Google Cloud Platform (BigQuery, Dataflow, Cloud Storage, and Cloud Run)**, designing data processing workflows, building scalable data pipelines, and creating interactive dashboards using **Power BI** and **Looker Studio**.
 

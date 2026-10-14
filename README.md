@@ -1,16 +1,75 @@
-# 
+# Hi, I'm Fabián Armijo 👋
 
-I’m a **Computer Engineering**, passionate about **Data Analytics, Business Intelligence, Cloud Computing, and Artificial Intelligence**.
+### Computer Engineer | GenAI & Data Engineering
 
-Throughout my academic journey and personal projects, I have built solutions focused on **data analysis, ETL pipelines, business intelligence, and cloud-based architectures**. I have experience working with **Google Cloud Platform (BigQuery, Dataflow, Cloud Storage, and Cloud Run)**, designing data processing workflows, building scalable data pipelines, and creating interactive dashboards using **Power BI** and **Looker Studio**.
+I'm a **Computer Engineer focused on Generative AI, LLM Engineering, and Data Engineering**, passionate about building intelligent solutions that combine AI, data, and cloud technologies.
 
-I have also developed projects related to **Data Mining, Machine Learning, and Artificial Intelligence**, applying predictive modeling, data exploration, and analytical techniques to generate insights and support decision-making.
+My technical interests include developing applications powered by **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and Generative AI**. I enjoy integrating APIs, cloud services, and data pipelines to build solutions that automate processes and solve real-world problems.
 
-Additionally, I have worked as a **freelance software developer**, designing and deploying web applications while gaining experience with **Python, SQL, JavaScript, PHP, Git**, and database management. This background allows me to combine software development with data-driven solutions and cloud technologies.
+I also have a background in **Data Engineering and Cloud Computing**, with experience designing ETL pipelines, processing large-scale datasets, and implementing data architectures on Google Cloud Platform. My projects include processing over **128 million records** using Python, Apache Beam, Dataflow, and BigQuery.
 
-I'm an analytical, adaptable, and proactive learner who enjoys solving problems through technology. Currently, I'm seeking a **Software Engineering Internship** where I can contribute, gain real-world experience, and continue growing professionally in **Data Analytics, Business Intelligence, Cloud Computing, and AI**.
+Additionally, I work with software development, database design, API integration, and application deployment, combining software engineering principles with AI and data-driven solutions.
 
-| Programming | Data & BI | Cloud | AI & Data Science | Development |
-|-------------|-----------|-------|-------------------|-------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=for-the-badge&logo=googlecloud&logoColor=black) ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Data Mining](https://img.shields.io/badge/Data_Mining-0A66C2?style=for-the-badge) ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
- 
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & GenAI
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Bedrock AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### ☁️ Cloud Computing
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 📊 Data Engineering & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache_Beam-EA4335?style=for-the-badge&logo=apachebeam&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-AECBFA?style=for-the-badge&logo=googlecloud&logoColor=black)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 💻 Programming & Software Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+---
+
+## 🎯 Technical Interests
+
+- Generative AI and LLM-powered applications.
+- Retrieval-Augmented Generation (RAG) and knowledge bases.
+- AI agents and intelligent workflow automation.
+- Cloud-native AI architectures and API integrations.
+- Data pipelines, ETL processes, and distributed data processing.
+- Business Intelligence and data-driven decision-making.
+
+---

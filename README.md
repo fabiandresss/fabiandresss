@@ -1,6 +1,6 @@
 # Hi, I'm Fabián Armijo 👋
 
-### Computer Engineer | GenAI & Data Engineering
+### Software & AI Engineer
 
 I'm a **Computer Engineer focused on Generative AI, LLM Engineering, and Data Engineering**, passionate about building intelligent solutions that combine AI, data, and cloud technologies.
 
